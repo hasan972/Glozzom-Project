@@ -7,8 +7,33 @@
 .nav-link{
     text-transform: uppercase;
   }
-
-
-@media (max-width: 760px) {
-
+.carousel-item{
+  height: 450px;
 }
+.carousel-img-1{
+  background: url('../img/image1.jpeg');
+  background-size: cover;
+}
+.carousel-img-2{
+  background: url('../img/image2.jpeg');
+  background-size: cover;
+}
+.carousel-img-3{
+  background: url('../img/image3.jpeg');
+  background-size: cover;
+}
+
+
+@media (max-width: 991px) {
+  #home-getstarted {
+    min-height: 350px;
+    }
+  }
+
+@media (max-width: 575px) {
+  .carousel-caption h2 {
+    font-size: 36px;
+  }
+  .carousel-item .pb-5 {
+    padding-bottom: 0 !important;
+  }
