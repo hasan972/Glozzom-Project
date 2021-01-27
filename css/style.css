@@ -26,6 +26,22 @@
 #homeicon .fa{
   font-size: 50px;
 }
+#getstarted{
+  background: url('../img/bg1.jpeg');
+  position: relative;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  min-height: 250px;
+
+}
+#getstarted .dark-overlay{
+  background: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+}
 @media (max-width: 991px) {
   #home-getstarted {
     min-height: 350px;
@@ -39,3 +55,12 @@
   .carousel-item .pb-5 {
     padding-bottom: 0 !important;
   }
+  @media (max-width: 480px) {
+  #home-getstarted {
+    min-height: 450px;
+  }
+    #home-getstarted h2 {
+      font-size: 36px !important;
+      margin: 15px 0;
+      }
+    }
