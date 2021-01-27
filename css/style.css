@@ -23,7 +23,9 @@
   background-size: cover;
 }
 
-
+#homeicon .fa{
+  font-size: 50px;
+}
 @media (max-width: 991px) {
   #home-getstarted {
     min-height: 350px;
