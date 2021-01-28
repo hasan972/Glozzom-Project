@@ -64,6 +64,9 @@
   font-size: 50px;
   color: #ff0000;
 }
+#gallery img {
+  min-height: 300px;
+}
 @media (max-width: 991px) {
   #home-getstarted {
     min-height: 350px;
