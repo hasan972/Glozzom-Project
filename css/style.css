@@ -67,6 +67,9 @@
 #gallery img {
   min-height: 300px;
 }
+#copyright{
+  background: #000;
+}
 @media (max-width: 991px) {
   #home-getstarted {
     min-height: 350px;
