@@ -76,6 +76,12 @@
   height: 200px;
   background-attachment: fixed;
 }
+#servises-header{
+  background: url('../img/image1.jpeg');
+  background-size: cover;
+  height: 200px;
+  background-attachment: fixed;
+}
 #about-info img{
   width: 350px;
   height: 350px;
