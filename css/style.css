@@ -80,6 +80,13 @@
   width: 350px;
   height: 350px;
 }
+
+#iconbox .fa{
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+
 @media (max-width: 991px) {
   #home-getstarted {
     min-height: 350px;
