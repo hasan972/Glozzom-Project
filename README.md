@@ -1,5 +1,6 @@
 # Glozzom project 
-Complete multiple page web project using bootStrap4, HTML5, javaScript
+Complete multiple page web project using bootStrap4, HTML5, javaScript.
+This web project is professional website and all the project is responsive.
 # Live Link (show My project)
  https://hasan972.github.io/Glozzom-Project/
 # Home
